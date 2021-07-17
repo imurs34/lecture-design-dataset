@@ -4,16 +4,16 @@ We introduce an object detection dataset for lecture design elements. It contain
 # Dataset Examples
 <table>
   <tr>
-    <td> <img src="examples/video5_0_1_shot14.jpg"  alt="1" width = 250px height = 145px ></td>
-    <td><img src="examples/video5_0_2_shot15.jpg" alt="2" width = 250px height = 145px></td>
-    <td> <img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video45_4_2_shot5.jpg"  alt="1" width = 250px height = 145px ></td>
-    <td><img src="examples/video52_1_11_shot67.jpg" alt="2" width = 250px height = 145px></td>
+    <td> <img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video5_0_1_shot14.jpg"  alt="1" width = 250px height = 145px ></td>
+    <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video5_0_2_shot15.jpg" alt="2" width = 250px height = 145px></td>
+    <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video45_4_2_shot5.jpg"  alt="3" width = 250px height = 145px ></td>
+    <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video52_1_11_shot67.jpg" alt="4" width = 250px height = 145px></td>
    </tr> 
    <tr>
-      <td><img src="examples/video6_2_5_shot6.jpg" alt="3" width = 250px height = 145px></td>
-      <td><img src="examples/video6_3_2_shot4.jpg" align="right" alt="4" width = 250px height = 145px></td>
-      <td><img src="examples/video79_1_11_shot4.jpg" alt="3" width = 250px height = 145px></td>
-      <td><img src="examples/video79_1_16_shot4.jpg" align="right" alt="4" width = 250px height = 145px></td>     
+      <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video6_2_5_shot6.jpg" alt="5" width = 250px height = 145px></td>
+      <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video6_3_2_shot4.jpg" alt="6" width = 250px height = 145px></td>
+      <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video79_1_11_shot4.jpg" alt="7" width = 250px height = 145px></td>
+      <td><img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video79_1_16_shot4.jpg" alt="8" width = 250px height = 145px></td>     
   </tr>
 </table>
 <!-- 
