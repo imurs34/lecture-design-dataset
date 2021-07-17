@@ -6,7 +6,7 @@ We introduce an object detection dataset for lecture design elements. It contain
   <tr>
     <td> <img src="examples/video5_0_1_shot14.jpg"  alt="1" width = 250px height = 145px ></td>
     <td><img src="examples/video5_0_2_shot15.jpg" alt="2" width = 250px height = 145px></td>
-    <td> <img src="examples/video45_4_2_shot5.jpg"  alt="1" width = 250px height = 145px ></td>
+    <td> <img src="https://anonymous.4open.science/r/lecture-design-dataset-6270/examples/video45_4_2_shot5.jpg"  alt="1" width = 250px height = 145px ></td>
     <td><img src="examples/video52_1_11_shot67.jpg" alt="2" width = 250px height = 145px></td>
    </tr> 
    <tr>
