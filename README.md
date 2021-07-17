@@ -26,8 +26,8 @@ We introduce an object detection dataset for lecture design elements. It contain
 <img src="examples/video79_1_11_shot4.jpg" width="250" />
 <img src="examples/video79_1_16_shot4.jpg" width="250" /> -->
 
-
-
+# Image Download
+[Download Link](https://drive.google.com/uc?export=download&id=1N9l5GfHLGnqrXgs7H4DbM5R1lo5zwusr)
 
 # Licensing
 * Labels are licensed under [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
