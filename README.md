@@ -2,7 +2,7 @@
 We introduce an object detection dataset for lecture design elements. It contains a total of 51,326 bounding boxes for 12 object classes on 5,527 video frames from MOOCs. The video frames of lectures are annotated based on semantic units. For example, we grouped multi-level lists with hierarchical relationships as a single text box and complex graphics consisting of separate elements connected with arrows as a single diagram.
 
 # Dataset Examples
-![example image](https://anonymous.4open.science/r/lecture-design-dataset-F7CF/examples/dataset_example.png)
+![example image](https://anonymous.4open.science/r/lecture-design-dataset-F7CF/dataset_example.png)
 
 <!-- <table>
   <tr>
